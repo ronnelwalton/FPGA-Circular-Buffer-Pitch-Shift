@@ -1,0 +1,6 @@
+pitchShift/pitchShift/modimpl_ntwk --> modimpl_ntwk
+pitchShift/pitchShift/modimpl_ntwk --> modimpl_ntwk_block
+pitchShift/pitchShift/modimpl_ntwk --> modimpl_ntwk_block1
+pitchShift/pitchShift/DualPortRAM_generic --> DualPortRAM_generic
+pitchShift_tc --> pitchShift_tc
+pitchShift/pitchShift --> pitchShift
