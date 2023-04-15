@@ -1,0 +1,1 @@
+soundsc(double(AudioOut), modelParams.audio.sampleFrequency)

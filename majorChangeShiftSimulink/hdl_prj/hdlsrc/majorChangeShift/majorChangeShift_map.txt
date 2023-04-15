@@ -1,0 +1,7 @@
+majorChangeShift/majorChangeShift/modimpl_ntwk --> modimpl_ntwk
+majorChangeShift/majorChangeShift/modimpl_ntwk --> modimpl_ntwk_block
+majorChangeShift/majorChangeShift/modimpl_ntwk --> modimpl_ntwk_block1
+majorChangeShift/majorChangeShift/modimpl_ntwk --> modimpl_ntwk_block2
+majorChangeShift/majorChangeShift/DualPortRAM_generic --> DualPortRAM_generic
+majorChangeShift_tc --> majorChangeShift_tc
+majorChangeShift/majorChangeShift --> majorChangeShift
